@@ -48,7 +48,8 @@ time before it expires: 2 hours or one day
 After carrying out initial cleaning of the data, I carried out data analysis to answer specific questions. 
 I have focused on the Bar coupons and Restaurant<20 coupons for my assignment.
 
-Please see the jupyter notebook to have access to the code. Link:(CouponAcceptance.ipynb)
+Please see the jupyter notebook to have access to the code. Link:
+https://github.com/pvvam/drivingcoupon/blob/2fe4adccfa40ed4b9a2fc197a4b52fbde838a877/CouponAcceptance.ipynb
 
 
 ## Investigating Bar Coupons
@@ -86,7 +87,9 @@ For the independent investigation, I have chosen the Restaurant<20 Coupon to det
 10. The acceptance rate for cheap restaurants is not influenced by the frequency of restaurant visits in a month . 
 
 
+## Recommendations
 
-
-
+1. Target restaurant<20 coupons to younger aged drivers, preferably students, unemployed or specific occupational groups that are more likely to accept it.
+2. Target coupons to customers during summer and lunch/dinner hours where the likelihood of acceptance is high.
+3. Offer more promotions on cheap restaurants during rainy and snowy days since drivers dont tend to accept coupons in this weather.
 
